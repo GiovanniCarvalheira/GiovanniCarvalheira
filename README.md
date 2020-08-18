@@ -1,4 +1,4 @@
-### Mess with best, die like the rest.
+### Mess with the best, die like the rest.
 
 
 <!--START_SECTION:waka-->
