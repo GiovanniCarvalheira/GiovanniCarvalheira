@@ -10,7 +10,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Java     13 mins         ██████████████████▓░░░░░░   74.78 % 
-CSHTML   3 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.20 % 
+CSHTML       3 mins          ██████████████████░░░░░░░   72.17 % 
 ```
 <!--END_SECTION:waka-->
