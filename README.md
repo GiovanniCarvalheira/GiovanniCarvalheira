@@ -10,7 +10,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Sass         6 hrs 2 mins    █████████████░░░░░░░░░░░░   51.94 % 
-TypeScript   5 hrs 35 mins   ████████████░░░░░░░░░░░░░   48.06 % 
+Sass         7 hrs 14 mins   ██████████████▒░░░░░░░░░░   57.32 % 
+TypeScript   5 hrs 23 mins   ██████████▓░░░░░░░░░░░░░░   42.68 % 
 ```
 <!--END_SECTION:waka-->
