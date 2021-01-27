@@ -10,7 +10,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   2 hrs           ███████████████████░░░░░░   76.29 % 
-Sass         37 mins         ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
