@@ -10,6 +10,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-PHP          13 mins         ███████████████████████▓░   95.32 % 
+
 ```
 <!--END_SECTION:waka-->
