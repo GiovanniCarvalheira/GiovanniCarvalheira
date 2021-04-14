@@ -10,6 +10,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-
+HTML    26 mins         ████████████████▒░░░░░░░░   65.13 % 
+XML     14 mins         ████████▒░░░░░░░░░░░░░░░░   33.92 % 
 ```
 <!--END_SECTION:waka-->
